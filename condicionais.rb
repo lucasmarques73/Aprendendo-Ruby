@@ -52,7 +52,7 @@ end
 # Este exemplo não funcionou
 puts 'Car : ' unless $car_is_on
 
-Este exemplo não funcionou
+#Este exemplo não funcionou
 unless $car_is_on
     puts 'Car'
 end
